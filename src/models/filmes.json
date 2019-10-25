@@ -1,0 +1,45 @@
+[
+{
+    "id": 1,
+    "Titulo": "Os Sete Samurais",
+    "Sinopse": "Um samurai atende a um pedido de proteção contra bandidos à uma vila japonesa. Ele convida outros seis samurais  para ajudá-lo a ensinar às pessoas a como se defenderem sozinhas. O povoado da vila fornece comida aos soldados. A grande batalha acontece quando 40 bandidos atacam a vila",
+    "Data de lancamento": 1954,
+    "Duracao": "207 min",
+    "Genero": "Acao"
+} ,
+    {
+        "id" : 2,
+        "Titulo": "Caes de Aluguel",
+        "Sinopse": "Criminoso reúne seis bandidos para grande roubo de diamantes. Algo sai errado e um deles é ferido durante roubo e os bandidos precisam descobrir quem foi que os traiu, o que gera enorme tensão no grupo e enfraquece a todos.",
+        "Data de lancamento": 1992,
+        "Duracao": "100 min",
+        "Genero": "Drama"
+    },
+    {
+        "id" : 3,
+        "Titulo" : "O Labirinto do Fauno",
+        "Sinopse" :"Em 1944, na Espanha, a jovem Ofélia e sua mãe doente chegam ao posto do novo marido de sua mãe, um sádico oficial do exército que está tentando reprimir uma guerrilheira. Enquanto explorava um labirinto antigo, Ofélia encontra o Pan fauno, que diz que a menina é uma lendária princesa perdida e que ela precisa completar três tarefas perigosas a fim de se tornar imortal.", 
+        "Data de lancamento": 2006,
+        "Duracao" : 120,
+        "Genero": "Fantasia"
+ },
+ {
+        "id" : 4,
+        "Titulo": "Doutor Jivago",
+        "Sinopse":"Baseado no romance de Boris Pasternak, Dr. Jivago é um médico e poeta que inicialmente apoia a revolução Russa, mas, aos poucos, se desilude com o socialismo e se divide entre dois amores: a esposa Tania e a bela plebeia Lara.",
+        "Data de lancamento" : 1965,
+        "Duracao": 200,
+        "Genero": "Drama"
+ },
+ { 
+        "id" : 5,
+        "Titulo": "Taxi Driver",
+        "Sinopse": "O motorista de táxi de Nova York Travis Bickle reflete constantemente sobre a corrupção da vida ao seu redor e sente-se cada vez mais perturbado com a própria solidão e alienação. Em praticamente todas as fases de sua vida, Bickle permanece isolado e não consegue fazer contato emocional com ninguém. Incapaz de dormir noite após noite, o motorista frequenta os estabelecimentos de pornografia locais em busca de diversão.",
+        "Data de lancamento": 1976,
+        "Duracao": 114,
+        "Genero": "Drama"
+    
+        
+ }
+
+]
